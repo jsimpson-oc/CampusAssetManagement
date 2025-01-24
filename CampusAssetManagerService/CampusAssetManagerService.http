@@ -1,0 +1,6 @@
+@CampusAssetManagerService_HostAddress = http://localhost:5120
+
+GET {{CampusAssetManagerService_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
