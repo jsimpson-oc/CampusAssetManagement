@@ -57,4 +57,15 @@
   <ItemGroup>
     <Folder Include="Properties" />
   </ItemGroup>
+  <ItemGroup>
+    <Build Include="Institution.sql" />
+    <Build Include="Campus.sql" />
+    <Build Include="Building.sql" />
+    <Build Include="Room.sql" />
+    <Build Include="RoomType.sql" />
+    <Build Include="trg_SetDefaultRoomType.sql" />
+  </ItemGroup>
+  <ItemGroup>
+    <RefactorLog Include="CampusAssetManagementDB.refactorlog" />
+  </ItemGroup>
 </Project>

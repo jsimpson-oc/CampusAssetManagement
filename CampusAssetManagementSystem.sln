@@ -1,11 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.12.35707.178 d17.12
+VisualStudioVersion = 17.12.35707.178
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CampusAssetManagementClient", "CampusAssetManagementClient\CampusAssetManagementClient.csproj", "{9B18C5E6-2141-4E9C-81CC-E5B6834CFD13}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CampusAssetManagerService", "CampusAssetManagerService\CampusAssetManagerService.csproj", "{729F6A94-CE6B-408D-BE7D-E4AD643446C3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CampusAssetManagementService", "CampusAssetManagerService\CampusAssetManagementService.csproj", "{729F6A94-CE6B-408D-BE7D-E4AD643446C3}"
 EndProject
 Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "CampusAssetManagementDB", "CampusAssetManagementDB\CampusAssetManagementDB.sqlproj", "{E2C41BCC-549F-4EB6-8DA9-2D838DFD7568}"
 EndProject

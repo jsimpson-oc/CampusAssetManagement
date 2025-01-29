@@ -1,0 +1,5 @@
+﻿CREATE TABLE [dbo].[RoomType]
+(
+	[RoomTypeID] INT PRIMARY KEY IDENTITY(1,1),
+    [TypeName] NVARCHAR(50) UNIQUE NOT NULL
+)
