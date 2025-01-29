@@ -8,7 +8,7 @@ CAM uses a 3-tiered system architecture. The three components are: MS SQL Databa
 
 # MS SQL Database
 
-This database will store all the data for the system. The database can begin as an SQLite instance, with larger systems using a full installation of MSSQL Server. The system will have minimal logins with appropriate security applied. The only connection point for the SQL Server should be the service.
+This database will store all the data for the system. The database can begin as an SQLExpress instance, with larger systems using a full installation of MSSQL Server. The system will have minimal logins with appropriate security applied. The only connection point for the SQL Server should be the service.
 
 # Campus Asset Management Service
 
