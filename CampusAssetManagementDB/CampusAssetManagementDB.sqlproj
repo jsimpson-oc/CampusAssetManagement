@@ -64,8 +64,13 @@
     <Build Include="Room.sql" />
     <Build Include="RoomType.sql" />
     <Build Include="trg_SetDefaultRoomType.sql" />
+    <Build Include="Country.sql" />
+    <Build Include="State.sql" />
   </ItemGroup>
   <ItemGroup>
     <RefactorLog Include="CampusAssetManagementDB.refactorlog" />
+  </ItemGroup>
+  <ItemGroup>
+    <PostDeploy Include="Fill_Location_Tables.sql" />
   </ItemGroup>
 </Project>
